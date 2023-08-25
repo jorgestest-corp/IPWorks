@@ -1,1 +1,0 @@
-Components offering implementations of core Internet Communication Protocols such as HTTP, FTP, SMTP, IMAP, LDAP, REST, SOAP, WebSockets, and DNS through simple, easy-to-use, and intuitive APIs.
